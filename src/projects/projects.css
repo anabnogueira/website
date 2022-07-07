@@ -1,0 +1,63 @@
+
+.project-icon {
+    float: left;
+    width: 15%;
+    font-size: 80px;
+    line-height: 100px;
+    text-align: center;
+    filter: grayscale(1);
+}
+
+.project-desc {
+    float: right;
+    width: 82%;
+}
+
+.project-desc > h1 {
+    color: black;
+    font-size: 1.4em;
+    font-family: Helvetica, sans-serif;
+}
+
+.project-summary {
+    color: black;
+    text-decoration: none;
+    margin-top: 0.6em;
+    margin-bottom: 0.6em;
+    margin-right: 0.6em;
+}
+
+.tech {
+    display: inline-block;
+    color: black;
+    text-decoration: none;
+}
+
+.tech > span {
+    display: inline-block;
+    color: black;
+    padding: 0em 0.7em;
+    border-radius: 2em;
+    margin-right: 0.6em;
+
+}
+
+.tech-d3 {
+    background-color: #e5815a;
+}
+
+.tech-react {
+    background-color: #80d8f7;
+}
+
+.tech-js {
+    background-color: #ecd84e;
+}
+
+.tech-html {
+    background-color: #da6a3a;
+}
+
+.tech-css {
+    background-color: #3c83bc;
+}

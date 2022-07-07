@@ -1,0 +1,9 @@
+
+.literature-year:hover {
+    cursor: pointer;
+    background-color: #efefef;
+}
+
+.literature-year {
+    padding-left: 1em;
+}
